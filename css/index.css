@@ -1,0 +1,44 @@
+h1{
+
+color:white;
+font-family:cursive;
+text-align:center;
+font-size:50px;
+
+}
+
+
+form{
+     font-size:30px;
+text-align:center;
+margin-left:5%;
+margin-top:5%
+margin-bottom:5%;
+padding:2em;
+color:white;
+}
+
+.class{
+    display:flex;
+}
+
+
+body{
+
+   font-family:cursive;
+  background:url("https://i.pinimg.com/236x/61/56/c5/6156c53138f757da4bf82c22d30bae4f--book-letters-exhibition-display.jpg");
+ background-size:1000px,1000px;
+
+}
+
+.p1{ color:white;
+font-size:25px;
+width:70%;
+margin-top:10px;
+}
+
+.img{
+
+font-size:20px;
+
+}
